@@ -2,15 +2,15 @@
 ## Welcome to GitHub Pages
 
 
-###Favorite Things About CS193
+### Favorite Things About CS193
 
--Great Course Leads
+- Great Course Leads
 
--Get to learn more about computer science
+- Get to learn more about computer science
 
--Course Load is nice
+- Course Load is nice
 
--Amazing Students
+- Amazing Students
 
 
 
