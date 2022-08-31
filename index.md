@@ -3,6 +3,7 @@
 
 
 ###Favorite Things About CS193
+
 -Great Course Leads
 -Get to learn more about computer science
 -Course Load is nice
